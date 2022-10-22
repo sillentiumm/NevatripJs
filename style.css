@@ -1,0 +1,13 @@
+
+.section {
+    margin: 30px;
+}
+.descr {
+    margin-top: 20px;
+}
+#time2 {
+    display: none;
+}
+#label2 {
+    display: none;
+}
